@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/steeps/Downloads/CMakeCatch2_sample/include/TrialClass.hpp
+cstdio
+-
+
+/Users/steeps/Downloads/CMakeCatch2_sample/src/TrialClass.cpp
+cstdio
+-
+../include/TrialClass.hpp
+/Users/steeps/Downloads/CMakeCatch2_sample/include/TrialClass.hpp
+
+/Users/steeps/Downloads/CMakeCatch2_sample/src/main.cpp
+../include/TrialClass.hpp
+/Users/steeps/Downloads/CMakeCatch2_sample/include/TrialClass.hpp
+cstdio
+-
+

@@ -1,12 +1,11 @@
 // Essential Catch2 headers for running tests
-#include "../lib/catch2/catch2/catch.hpp"
+#include "catch.hpp"
 // Class to be tested
-#include "../include/TrialClass.hpp"
+#include "TrialClass.hpp"
 #include <stdio.h>
 
 
 TEST_CASE("Get and set", "[TrialClass]"){
-  printf("Running testcase_00\n");
   // Create object
    TrialClass* tc = new TrialClass();
 

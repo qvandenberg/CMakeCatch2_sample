@@ -1,0 +1,12 @@
+/Users/steeps/Downloads/CMakeCatch2_sample/build/CMakeFiles/rebuild_cache.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/CMakeFiles/edit_cache.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/CMakeFiles/test.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/src/CMakeFiles/rebuild_cache.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/src/CMakeFiles/edit_cache.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/src/CMakeFiles/test.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/src/CMakeFiles/main.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/src/CMakeFiles/mainlib.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/test/CMakeFiles/test.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/test/CMakeFiles/rebuild_cache.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/test/CMakeFiles/edit_cache.dir
+/Users/steeps/Downloads/CMakeCatch2_sample/build/test/CMakeFiles/main_test.dir
