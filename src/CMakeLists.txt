@@ -1,6 +1,3 @@
-# Access to directories
-include_directories(${PROJECT_SOURCE_DIR})
-
 add_library("mainlib" SHARED)
 
 set(TARGET_SOURCES

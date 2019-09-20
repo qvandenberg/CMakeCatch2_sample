@@ -6,5 +6,5 @@ CXX_FLAGS =  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacO
 
 CXX_DEFINES = -Dmainlib_EXPORTS
 
-CXX_INCLUDES = -I/Users/steeps/Downloads/CMakeCatch2_sample -I/Users/steeps/Downloads/CMakeCatch2_sample/include 
+CXX_INCLUDES = -I/Users/steeps/Downloads/CMakeCatch2_sample/include 
 
