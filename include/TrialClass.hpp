@@ -11,7 +11,7 @@ class TrialClass {
         double x_;
 
     public:
-        HomFP();
+        TrialClass();
 
         void set_value(double x);
 

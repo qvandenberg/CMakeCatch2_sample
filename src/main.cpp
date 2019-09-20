@@ -1,10 +1,10 @@
-#include "../include/HomogeneousFP.hpp"
+#include "../include/TrialClass.hpp"
 #include <cstdio>
 
 /*
 Compile procedure:
   1.) command-line:
-    g++ HomogeneousFP.cpp main.cpp -o main
+    g++ TrialClass.cpp main.cpp -o main
 
   2.) Cmake
     cd build
@@ -18,14 +18,15 @@ int main(){
 
   printf("Running main.cpp\n");
 
-  HomFP* homfp = new HomFP();
+  TrialClass* tc = new TrialClass();
+
   // set value and retrieve it
-  homfp->set_value(5.0);
-  int x = homfp->get_value();
+  tc->set_value(5.0);
+  double x = tc->get_value();
 
-  printf("Value returned is %d\n", x);
+  printf("Value returned is %1.2f\n", x);
 
-  delete homfp;
+  delete tc;
 
   return 0;
 }
