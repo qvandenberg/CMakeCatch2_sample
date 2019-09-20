@@ -1,2 +1,4 @@
 # Exclude implementation-specific files
-*/build/*
+src/build/*
+test/build/*
+
