@@ -4,8 +4,11 @@ This project demonstrates how to implement Catch2 for unit testing a class in a 
 
 Directories:
 `\include - header files`
+
 `\src - implementation`
+
 `\lib - external libraries`
+
 `\test - testing scripts`
 
 ## Compilation procedure
