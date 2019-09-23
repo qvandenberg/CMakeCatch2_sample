@@ -14,16 +14,21 @@ Directories:
 
 ## Compilation procedure
 Navigate to the root build folder:
+
 `cd build`
 
 Execute cmake commands:
+
 `cmake ..`
+
 `make`
 
 Execute main for running the main program:
+
 `./bin/main`
 
 Run tests:
+
 `./main_test`
 
 
