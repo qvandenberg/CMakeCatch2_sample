@@ -1,3 +1,5 @@
+cmake_minimum_required(3.14)
+
 # Access to directories
 include_directories(${PROJECT_SOURCE_DIR})
 
