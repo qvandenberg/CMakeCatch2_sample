@@ -1,5 +1,6 @@
 // Essential Catch2 headers for running tests
-#include "../lib/catch2/catch2/catch.hpp"
+#include <stdio.h>
+
 // Class to be tested
 #include "../include/TrialClass.hpp"
 #include <stdio.h>

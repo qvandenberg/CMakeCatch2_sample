@@ -5,7 +5,7 @@ set(TARGET_SOURCES
     "trial_class_test.cpp"
 )
 
-list(TRANSFORM TARGET_SOURCES PREPEND "${PROJECT_SOURCE_DIR}/test/")
+#list(TRANSFORM TARGET_SOURCES PREPEND "${PROJECT_SOURCE_DIR}/test/")
 target_sources("main_test" PUBLIC ${TARGET_SOURCES})
 
 target_link_libraries("main_test" PUBLIC "mainlib")

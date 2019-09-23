@@ -1,5 +1,3 @@
-cmake_minimum_required(VERSION 3.1...3.15)
-
 add_library("mainlib" SHARED)
 
 set(TARGET_SOURCES
@@ -10,7 +8,7 @@ set(TARGET_SOURCES
 target_sources("mainlib" PUBLIC ${TARGET_SOURCES})
 target_include_directories("mainlib" PUBLIC "${PROJECT_SOURCE_DIR}/include")
 
-# Compile test executable
+# Compile main executable (regular script, not the unit tests)
 add_executable("main")
 
 # List source files

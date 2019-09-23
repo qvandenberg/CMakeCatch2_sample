@@ -4,10 +4,8 @@
 test/CMakeFiles/main_test.dir/__/src/TrialClass.cpp.o: ../include/TrialClass.hpp
 test/CMakeFiles/main_test.dir/__/src/TrialClass.cpp.o: ../src/TrialClass.cpp
 
-test/CMakeFiles/main_test.dir/main_test.cpp.o: ../extern/include/catch.hpp
 test/CMakeFiles/main_test.dir/main_test.cpp.o: ../test/main_test.cpp
 
-test/CMakeFiles/main_test.dir/trial_class_test.cpp.o: ../extern/include/catch.hpp
 test/CMakeFiles/main_test.dir/trial_class_test.cpp.o: ../include/TrialClass.hpp
 test/CMakeFiles/main_test.dir/trial_class_test.cpp.o: ../test/trial_class_test.cpp
 
