@@ -6,6 +6,7 @@
 
 
 TEST_CASE("Get and set", "[TrialClass]"){
+  printf("Running testcase 'Get and set'\n");
   // Create object
    TrialClass* tc = new TrialClass();
 

@@ -5,5 +5,5 @@
 
 TEST_CASE("1: All test cases reside in other .cpp files (empty)",
           "[multi-file:1]") {
-            printf("Running test case 1.\n");
+            printf("Running test case in main_test.cpp\n");
           }

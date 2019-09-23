@@ -10,12 +10,6 @@
 cstdio
 -
 
-/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/test/main_test.cpp
-catch2/catch.hpp
--
-stdio.h
--
-
 /Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/test/trial_class_test.cpp
 catch2/catch.hpp
 -

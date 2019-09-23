@@ -7,7 +7,7 @@
 
 
 TrialClass::TrialClass(){
-    printf("Constructor TrialClass:TrialClass() called.\n");
+    printf("Constructor TrialClass::TrialClass() called.\n");
 }
 void TrialClass::set_value(double x){
     x_ = x;
