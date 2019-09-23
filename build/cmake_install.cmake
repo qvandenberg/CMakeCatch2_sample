@@ -1,4 +1,4 @@
-# Install script for directory: /Users/steeps/Downloads/CMakeCatch2_sample
+# Install script for directory: /Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/steeps/Downloads/CMakeCatch2_sample/build/src/cmake_install.cmake")
+  include("/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/steeps/Downloads/CMakeCatch2_sample/build/test/cmake_install.cmake")
+  include("/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/test/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/steeps/Downloads/CMakeCatch2_sample/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

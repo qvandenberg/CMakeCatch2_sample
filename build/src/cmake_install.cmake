@@ -1,4 +1,4 @@
-# Install script for directory: /Users/steeps/Downloads/CMakeCatch2_sample/src
+# Install script for directory: /Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

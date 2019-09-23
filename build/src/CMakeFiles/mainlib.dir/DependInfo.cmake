@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/steeps/Downloads/CMakeCatch2_sample/src/TrialClass.cpp" "/Users/steeps/Downloads/CMakeCatch2_sample/build/src/CMakeFiles/mainlib.dir/TrialClass.cpp.o"
+  "/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/src/TrialClass.cpp" "/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/src/CMakeFiles/mainlib.dir/TrialClass.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
@@ -15,7 +15,6 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../"
   "../include"
   )
 

@@ -1,2 +1,8 @@
 # Exclude implementation-specific files
-*/build/*
+build/CMakeFiles/*
+build/bin/*
+build/test/*
+build/lib/*
+
+src/build/*
+test/build/*

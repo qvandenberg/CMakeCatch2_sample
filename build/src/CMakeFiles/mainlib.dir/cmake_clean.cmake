@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "../lib/libmainlib.dylib"
-  "../lib/libmainlib.pdb"
   "CMakeFiles/mainlib.dir/TrialClass.cpp.o"
+  "../lib/libmainlib.pdb"
+  "../lib/libmainlib.dylib"
 )
 
 # Per-language clean rules from dependency scanning.
