@@ -1,0 +1,9 @@
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/CMakeFiles/rebuild_cache.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/CMakeFiles/edit_cache.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/src/CMakeFiles/rebuild_cache.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/src/CMakeFiles/edit_cache.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/src/CMakeFiles/main.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/src/CMakeFiles/mainlib.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/test/CMakeFiles/rebuild_cache.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/test/CMakeFiles/edit_cache.dir
+/Users/Quincy/Documents/Code/Cpp_learnmaterial/catch2/cmake_standalone/tests/build/test/CMakeFiles/main_test.dir
