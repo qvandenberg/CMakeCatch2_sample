@@ -3,32 +3,36 @@
 This project demonstrates how to implement Catch2 for unit testing a class in a more sophisticated folder structure. 
 
 Directories:
-\include - header files
-\src - implementation
-\lib - external libraries
-\test - testing scripts
+
+`\include - header files`
+
+`\src - implementation`
+
+`\lib - external libraries`
+
+`\test - testing scripts`
 
 ## Compilation procedure
-For main program:
+Navigate to the root build folder:
 
-cd src
-mkdir build
-cd build
-cmake ..
-make
-./main
+`cd build`
 
-For Testing scripts:
+Execute cmake commands:
 
-cd test
-mkdir build
-cd build
-cmake ..
-make
-./main
+`cmake ..`
+
+`make`
+
+Execute main for running the main program:
+
+`./bin/main`
+
+Run tests:
+
+`./main_test`
 
 
-## CMake guides
+## Additional CMake guides
 
 1.) Cmake general guide
 https://preshing.com/20170511/how-to-build-a-cmake-based-project/
