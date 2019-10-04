@@ -48,3 +48,6 @@ https://medium.com/@junaidrahim/a-guide-to-using-catch2-for-unit-testing-in-c-f0
 
 5.) Simple Catch2 and Cmake sample:
 https://schneide.blog/2017/12/11/integrating-catch2-with-cmake-and-jenkins/
+
+6.) Folder structure with separate headers and source files
+https://stackoverflow.com/questions/8304190/cmake-with-include-and-source-paths-basic-setup
